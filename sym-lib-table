@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EWM104-BT3040")(type "KiCad")(uri "${KIPRJMOD}/EWM104-BT3040.kicad_sym")(options "")(descr ""))
+  (lib (name "BTModule")(type "KiCad")(uri "${KIPRJMOD}/BTModule.kicad_sym")(options "")(descr ""))
+)

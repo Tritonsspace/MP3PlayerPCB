@@ -1,0 +1,66 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,191.775,-130.2125,90,top
+C2,22µF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,191.175,-121.6125,90,top
+C3,22µF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,186.9125,-124.2125,180,top
+C4,22µF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,186.875,-127.0125,0,top
+C5,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,172.0375,-127.8,0,top
+C6,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,172,-129.4,0,top
+C7,0.1uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,193.3375,-55.9,0,top
+C8,2.2nF 50V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,156.6,-91.4,90,top
+C9,2.2nF 50V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,159.3,-91.5,90,top
+C10,2.2nF 25V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,153.9,-85.875,0,top
+C11,0.1uf 100V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,166.2,-75.575,-90,top
+C12,10uF 16V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,163.5,-75.675,-90,top
+C13,2.2uF 25V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,151.3,-89.075,-90,top
+C14,10uF 16V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,161.8,-75.575,90,top
+C15,0.1uF 100V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,150.8,-78,90,top
+C16,0.1uF 100V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,152.6,-75.6,90,top
+C17,10uF 16V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,154.2,-75.675,90,top
+C18,10uF 16V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,163.5,-87.275,90,top
+C19,10uF 16V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,165.9,-87.175,-90,top
+C20,0.1uF 100V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,161.8,-87.275,-90,top
+FB1,600R @100MHz,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,184.575,-119.9625,0,top
+J1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,166.38,-143.275,0,top
+J2,Conn_01x02_Pin,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,193.675,-109.1125,180,top
+J3,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,118.2,-143.19,0,top
+J4,Conn_01x08_Pin,PinHeader_1x08_P2.54mm_Horizontal,197.2,-70.24,0,top
+J6,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Horizontal,197.315,-56.29,0,top
+J7,Micro_SD_Card,microSD_HC_Hirose_DM3AT-SF-PEJM5,147.425,-138.025,0,top
+Q1,SS8050,SOT-23,178.8,-133.8,0,top
+Q2,SS8050,SOT-23,175.8,-119.6,0,top
+R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,189.075,-130.4125,90,top
+R2,100K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,181.675,-126.6625,-90,top
+R3,0R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,116.3,-136.29,-90,top
+R4,0R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,119.2,-136.7875,-90,top
+R5,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,113.5,-136.19,-90,top
+R6,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,122.1,-136.6875,-90,top
+R7,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,162.3,-129.5,0,top
+R8,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,163.1,-136.7,90,top
+R9,5.1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,170.5,-136.8,-90,top
+R10,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,175.5,-133.9,90,top
+R11,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,174.7875,-123.04,-90,top
+R12,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,177.7,-128.5125,-90,top
+R13,4.7K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,176,-128.6125,90,top
+R14,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,137.6,-105.9,-90,top
+R15,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,158.3,-126.2,180,top
+R16,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,169.5,-105.9125,-90,top
+R17,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,149.2,-94.4,0,top
+R18,10K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,149.1,-109.5,0,top
+R19,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,156.4,-88.1,90,top
+R20,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,158,-88.1,90,top
+R21,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,155.8,-75.575,-90,top
+SW1,SW_Push,SW_Push_1P1T_NO_CK_KMR2,153.65,-110.4,0,top
+SW2,SW_Push,SW_Push_1P1T_NO_CK_KMR2,153.65,-95.367618,0,top
+SW3,SW_Push,SW_Push_1P1T_NO_CK_KMR2,168.682382,-110.4,-90,top
+SW4,SW_Push,SW_Push_1P1T_NO_CK_KMR2,153.65,-125.432382,180,top
+SW5,SW_Push,SW_Push_1P1T_NO_CK_KMR2,138.617618,-110.4,90,top
+SW6,SW_Slide_DPDT,SW_DPDT_CK_JS202011JCQN,188.2,-115.3,180,top
+SW7,SW_Push,SW_Push_1P1T_NO_CK_KMR2,197,-114.8,0,top
+U1,EWM104-BT61SP,EWM104-BT61SP,117.2,-87.7,180,top
+U2,ESP32-WROOM-32E,ESP32-WROOM-32D,158.6,-62.33,0,top
+U3,PCM5122PW,TSSOP-28_4.4x9.7mm_P0.65mm,157.925,-81.2375,90,top
+U4,ADP5063,QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm,191.2,-125.9375,180,top
+U5,LDO40LPU33RY,DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm,182.275,-122.7875,90,top
+U6,CH340X,MSOP-10_3x3mm_P0.5mm,167.1,-129.1,0,top
+U8,USBLC6-2SC6,SOT-23-6,166.55,-136.3625,90,top
+U9,USBLC6-2SC6,SOT-23-6,120.35,-131.89,90,top
